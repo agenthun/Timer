@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_item_type">
+        <item>高效工作</item>
+        <item>尽兴娱乐</item>
+        <item>休息放松</item>
+        <item>强迫工作</item>
+        <item>无效拖延</item>
+    </string-array>
+</resources>

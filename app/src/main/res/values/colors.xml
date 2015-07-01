@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_color">#0277BD</color>
+    <color name="btn_color_pressed">#01579B</color>
+    <color name="efficient_work_color">#2baf2b</color>
+    <color name="enjoy_life_color">#e91e63</color>
+    <color name="relex_color">#ffc107</color>
+    <color name="force_work_color">#795548</color>
+    <color name="useless_color">#9e9e9e</color>
+    <color name="blank_color">#e0e0e0</color>
+</resources>
